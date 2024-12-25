@@ -16,7 +16,7 @@ Este proyecto implementa un sistema de autenticación simple usando React para e
 ### 1. Clonar el Repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/sistema-autenticacion.git
+git clone https://github.com/tomasandre62/autenticacion
 cd sistema-autenticacion
 2. Configuración del Frontend
 Instalación de Dependencias
